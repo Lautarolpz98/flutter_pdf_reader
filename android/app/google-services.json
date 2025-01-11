@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336978089710",
+    "project_id": "flutterpdfreader",
+    "storage_bucket": "flutterpdfreader.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336978089710:android:0fe752f54bbdeaf60785ff",
+        "android_client_info": {
+          "package_name": "com.example.pdf_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdls1J5IhzSzp3FOpwpMFuUcZ0bBCkXBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
